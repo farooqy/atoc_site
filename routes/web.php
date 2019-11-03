@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/features', function(){
+    return view('layouts.features');
+});
+Route::get('/contact', function(){
+    return view('layouts.contact');
+});
