@@ -26,7 +26,7 @@
 <body class="body">
   <div data-collapse="medium" data-animation="default" data-duration="400" class="navbar w-nav">
     <div class="container">
-      <div class="col flex lg-12 no-padding-bottom"><a href="index.html" class="brand w-nav-brand w--current"><img src="/version_2_assets/images/logo_side_writting.png" alt="" class="logo-image"></a>
+      <div class="col flex lg-12 no-padding-bottom"><a href="/" class="brand w-nav-brand w--current"><img src="/version_2_assets/images/logo_side_writting.png" alt="" class="logo-image"></a>
         <nav role="navigation" class="nav-menu w-nav-menu"><a href="/features" class="nav-link w-nav-link">Features</a>
 <!--         <a href="pricing.html" class="nav-link w-nav-link">Pricing</a>-->
          <a href="/contact" class="nav-link w-nav-link">Contact Us</a>
